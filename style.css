@@ -206,6 +206,7 @@ display:grid;
   
   form {
     padding-right: 8px;
+    color: white;
     /* Fixed small sizing issue on the right */
   }
   
